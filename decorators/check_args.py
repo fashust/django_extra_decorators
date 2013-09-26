@@ -7,7 +7,7 @@ from django.http import HttpResponse
 
 
 __author__ = 'fashust'
-__email__ = 'fashust.mefor@gmail.com'
+__email__ = 'fashust.nefor@gmail.com'
 
 
 def check_args(function=None, form_class=None, fields=None, *args, **kwargs):
